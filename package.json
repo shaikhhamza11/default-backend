@@ -1,0 +1,20 @@
+{
+  "name": "default-backend",
+  "version": "1.0.0",
+  "description": "Blueprint backend for all projects",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaikhhamza11/default-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaikhhamza11/default-backend/issues"
+  },
+  "homepage": "https://github.com/shaikhhamza11/default-backend#readme"
+}
